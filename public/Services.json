@@ -1,0 +1,101 @@
+[
+  {
+    "key": 1,
+    "img": "https://2rdnmg1qbg403gumla1v9i2h-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2019/11/panicAttacke-1155214538-770x553-650x428.jpg",
+    "title": "Panic disorder",
+    "desc": "You were fine a minute ago. Now your heart is racing",
+    "price": 29.99,
+    "doctor": "Orun",
+    "rating": 5,
+    "ratingCount": "320",
+    "doctorThumb": "https://www.freepnglogos.com/uploads/doctor-png/doctor-bulk-billing-doctors-chapel-hill-health-care-medical-3.png"
+  },
+  {
+    "key": 2,
+    "img": "https://2rdnmg1qbg403gumla1v9i2h-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2021/04/SleepPanic_-482464216-770x533-1-650x428.jpg",
+    "title": "Social Phobia",
+    "desc": "It’s 3 a.m. and you’re wide awake. You’re up because  panic attack jolted you out of sleep ",
+    "price": 34.79,
+    "doctor": "Hasan",
+    "rating": 4.2,
+    "ratingCount": "450",
+    "doctorThumb": "https://www.freepnglogos.com/uploads/doctor-png/doctor-bulk-billing-doctors-chapel-hill-health-care-medical-3.png"
+  },
+  {
+    "key": 3,
+    "img": "https://2rdnmg1qbg403gumla1v9i2h-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2021/03/PanicHeartAttack-973000994-770x533-1-650x428.jpg",
+    "title": "Heat  attack",
+    "desc": "The symptoms come on quickly,heart rate and you start sweating.!",
+    "price": 18.9,
+    "doctor": "Sunny",
+    "rating": 4,
+    "ratingCount": "680",
+    "doctorThumb": "https://www.freepnglogos.com/uploads/doctor-png/doctor-bulk-billing-doctors-chapel-hill-health-care-medical-3.png"
+  },
+  {
+    "key": 4,
+    "img": "https://www.southtampapsychiatry.com/wp-content/uploads/2020/01/Panic-Attack-v-Anxiety-Attack.jpg",
+    "title": "Anxiety Attack",
+    "desc": "Individuals suffering a panic attack may fear they’re going to die",
+    "price": 48.69,
+    "doctor": "Habib",
+    "rating": 3.5,
+    "ratingCount": "350",
+    "doctorThumb": "https://www.freepnglogos.com/uploads/doctor-png/doctor-bikowski-skin-care-center-sewickey-pennsylvania-home-35.png"
+  },
+  {
+    "key": 5,
+    "img": "https://www.southtampapsychiatry.com/wp-content/uploads/2021/09/How-does-TMS-Therapy-Help-Anxiety-2.jpg",
+    "title": "Therapy for Anxiety",
+    "desc": "How quickly patients experience the positive effects depends.",
+    "price": 48.69,
+    "doctor": "Ashik",
+    "rating": 4.5,
+    "ratingCount": "560",
+    "doctorThumb": "https://www.freepnglogos.com/uploads/doctor-png/png-woman-doctor-transparent-woman-doctor-images-40.png"
+  },
+  {
+    "key": 6,
+    "img": "https://www.southtampapsychiatry.com/wp-content/uploads/2021/09/How-Will-Depression-Treatment-Centers-Help-Me_.jpeg",
+    "title": "Migrains?",
+    "desc": "A migraine is usually a moderate or severe headache felt as a throbbing pain",
+    "price": 48.69,
+    "doctor": "jisan",
+    "rating": 4.0,
+    "ratingCount": "500",
+    "doctorThumb": "https://www.freepnglogos.com/uploads/doctor-png/png-woman-doctor-transparent-woman-doctor-images-40.png"
+  },
+  {
+    "key": 7,
+    "img": "https://www.helpguide.org/wp-content/uploads/teenaged-boy-curled-up-wide-eyes-staring-out-window-768.jpg",
+    "title": "depreession",
+    "desc": "Depression (major depressive disorder) is a common and serious medical illness that negatively affects how you feel,. ",
+    "price": 42.29,
+    "doctor": "Rayhan",
+    "rating": 3.5,
+    "ratingCount": "500",
+    "doctorThumb": "https://www.freepnglogos.com/uploads/doctor-png/png-woman-doctor-transparent-woman-doctor-images-40.png"
+  },
+  {
+    "key": 8,
+    "img": "https://www.southtampapsychiatry.com/wp-content/uploads/2019/02/tms-therapy-300x200.jpg",
+    "title": "TMS Therapy",
+    "desc": " TMS therapy is transcranial magnetic stimulation. This is a non-invasive.",
+    "price": 47.69,
+    "doctor": "Nirob",
+    "rating": 4.5,
+    "ratingCount": "500",
+    "doctorThumb": "https://www.freepnglogos.com/uploads/doctor-png/doctor-yashfeen-hospital-navsari-39.png"
+  },
+  {
+    "key": 9,
+    "img": "https://www.careerride.com/Image/group-discussion/what-triggers-suicide-depression-or-failure.jpg",
+    "title": "Fear and tear",
+    "desc": "Limelight could well be blinding as well as addictive.",
+    "price": 48.69,
+    "doctor": "riyal",
+    "rating": 4.0,
+    "ratingCount": "500",
+    "doctorThumb": "https://www.freepnglogos.com/uploads/doctor-png/doctor-yashfeen-hospital-navsari-39.png"
+  }
+]
