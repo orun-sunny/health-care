@@ -1,11 +1,15 @@
-# Coding Club Institute
+online- healthcare related website
+Added two extra sections
+5.task done
+6.detail route
+7.private/protected routes
+8.facebook, github, google done
+Here is the link of deployment  [Check Live Demo](https://online-healthcare-d0669.web.app/).
 
-You can visit now, [Live Site link](https://hasan-assignment-9.netlify.app).
 
-## Technology I used to build this project:
+Repo: 
 
-- Html
-- jsx
-- js
-- react
-- css
+This project was bootstrapped with [Create React App](https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-orun-sunny).
+
+
+-all added

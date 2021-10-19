@@ -1,14 +1,6 @@
 {
   "hosting": {
     "public": "build",
-       "rewrites": [{
-      "source": "**",
-      "destination": "/index.html",
-      "headers": [{
-        "key": "Cache-Control",
-        "value": "max-age=0"
-      }]
-    }],
     "ignore": [
       "firebase.json",
       "**/.*",

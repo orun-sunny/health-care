@@ -7,6 +7,7 @@ import useServices from "../../hooks/useServices.js";
 import { faStar as fullStar } from "@fortawesome/free-solid-svg-icons";
 import { faStar as emptyStar } from "@fortawesome/free-regular-svg-icons";
 import useAuth from "../../hooks/useAuth.js";
+import Bounce from "react-reveal/Bounce";
 
 const ServiceDetails = () => {
   const [services] = useServices();
@@ -51,16 +52,19 @@ const ServiceDetails = () => {
                 </div>
               </Col>
               <Col>
-                <div className="text-center">
-                  <img
-                    width="120px"
-                    className="thumbnail"
-                    src={newSelected?.doctorThumb}
-                    alt=""
-                  />
-                  <h4>Doctor: {newSelected?.provider}</h4>
-                  <p className="m-0 ">Highly Experienced</p>
-                </div>
+                <Bounce left cascade>
+                  <div className="text-center">
+                    <img
+                      width="120px"
+                      className="thumbnail"
+                      src={newSelected?.doctorThumb}
+                      alt=""
+                    />
+                    <h4>Doctor: {newSelected?.provider}</h4>
+                    <p className="m-0 ">Highly Experienced</p>
+                  </div>
+
+                </Bounce>
               </Col>
             </Row>
           </Col>
