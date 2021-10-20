@@ -8,7 +8,7 @@ import {
   InputGroup,
   Row,
 } from "react-bootstrap";
-import { faEnvelope, faUser, faLock } from "@fortawesome/free-solid-svg-icons";
+import { faEnvelope, faUser, faLock, faLink } from "@fortawesome/free-solid-svg-icons";
 import { NavLink, useHistory } from "react-router-dom";
 import useAuth from "../../hooks/useAuth.js";
 
@@ -58,6 +58,7 @@ const SignUp = () => {
                   <FontAwesomeIcon icon={faUser}></FontAwesomeIcon>
                 </InputGroup.Text>
                 <FormControl
+                  required
                   onBlur={getName}
                   type="text"
                   autoComplete="current-text"
@@ -78,6 +79,7 @@ const SignUp = () => {
                   <FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>
                 </InputGroup.Text>
                 <FormControl
+                  required
                   onBlur={getEmail}
                   type="email"
                   autoComplete="current-email"
@@ -114,7 +116,7 @@ const SignUp = () => {
               </Form.Label>
               <InputGroup className="mb-2">
                 <InputGroup.Text>
-                  <FontAwesomeIcon icon={faUser}></FontAwesomeIcon>
+                  <FontAwesomeIcon icon={faLink}></FontAwesomeIcon>
                 </InputGroup.Text>
                 <FormControl
                   onBlur={getPhotoURL}

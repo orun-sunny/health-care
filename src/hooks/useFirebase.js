@@ -115,7 +115,7 @@ const useFirebase = () => {
   const getPassword = (e) => {
     setPassword(e?.target?.value);
   };
-  // get password
+  // get photo
   const getPhotoURL = (e) => {
     setPhotoURL(e?.target?.value);
   };

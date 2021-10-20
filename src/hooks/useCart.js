@@ -5,8 +5,9 @@ const useCart = () => {
     function addToCart() {
         alert("clicked");
     }
-    return { addToCart }
+    return { addToCart };
 
+    //Extra for practice
 
 };
 

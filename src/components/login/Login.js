@@ -41,7 +41,7 @@ const Login = () => {
                   <FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>
                 </InputGroup.Text>
                 <FormControl
-                  onClick={getEmail}
+                  onBlur={getEmail}
                   type="email"
                   autoComplete="current-email"
                   id="email"
@@ -60,7 +60,7 @@ const Login = () => {
                   <FontAwesomeIcon icon={faLock}></FontAwesomeIcon>
                 </InputGroup.Text>
                 <FormControl
-                  onClick={getPassword}
+                  onBlur={getPassword}
                   type="password"
                   autoComplete="current-password"
                   id="password"
