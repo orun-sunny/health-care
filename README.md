@@ -13,3 +13,10 @@ This project was bootstrapped with [Create React App](https://github.com/Program
 
 
 -all added
+
+exploring usesatate
+explore firebase
+explore useeffect
+one direction dataflow
+data structuring
+google email added
